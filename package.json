@@ -4,6 +4,9 @@
     "test1": "ts-node src/test1/index.ts",
     "test2": "ts-node src/test2/index.ts"
   },
+  "dependencies": {
+    "@rc-ex/core": "^0.8.4"
+  },
   "devDependencies": {
     "@types/node": "^16.0.1",
     "gts": "^3.1.0",
