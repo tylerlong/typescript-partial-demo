@@ -1,7 +1,8 @@
 {
   "license": "MIT",
   "scripts": {
-    "test": "ts-node src/index.ts"
+    "test1": "ts-node src/test1/index.ts",
+    "test2": "ts-node src/test2/index.ts"
   },
   "devDependencies": {
     "@types/node": "^16.0.1",

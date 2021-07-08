@@ -11,5 +11,8 @@ The existing class could be in another file or even other module.
 
 ```
 yarn install
-yarn test
+
+yarn test1
+
+yarn test2
 ```
